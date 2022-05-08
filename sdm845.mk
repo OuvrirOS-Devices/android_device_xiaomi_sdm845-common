@@ -335,6 +335,7 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/interfaces \
     hardware/google/pixel \
     hardware/xiaomi \
+    hardware/livedisplay/sdm \
     vendor/qcom/opensource/usb/etc
 
 # Telephony
